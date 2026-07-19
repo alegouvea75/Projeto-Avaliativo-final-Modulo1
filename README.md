@@ -7,8 +7,6 @@ Com essa inteligência, a empresa deixa de ser reativa e passa a atuar de forma 
 
 ## Resumo Executivo: Insights da (Análise Exploratória).
 Durante a fase de Análise Exploratória de Dados, alguns padrões importantes sobre o comportamento dos clientes foram identificados para guiar a modelagem: A base de dados apresentou um forte desbalanceamento na variável alvo, com a maioria dos clientes permanecendo ativos, o que exigiu técnicas de balanceamento durante o treino.
-* ** Notamos que clientes com mais dias desde o último pedido têm uma tendência maior a cancelar.
-* ** A variável X apresentou forte correlação com o abandono do aplicativo.
 
 ## Veredito do Melhor Modelo de Negócios
 
