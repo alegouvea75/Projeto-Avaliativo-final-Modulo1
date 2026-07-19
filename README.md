@@ -11,9 +11,9 @@ Durante a fase de Análise Exploratória de Dados, alguns padrões importantes s
 ## Veredito do Melhor Modelo de Negócios
 
 Após rigorosos testes comparando algoritmos e controlando o *overfitting*, o modelo selecionado para entrar em produção foi o (KNN).
+O modelo KNN destacou-se ao alcançar um Recall de 0,85 para a classe 1 (Churn). Nenhuma Inteligência Artificial é 100% assertiva, mas as decisões de negócio devem focar na maximização do lucro e mitigação de danos. 
 
 ## A Justificativa Financeira
-O modelo KNN destacou-se ao alcançar um Recall de 0,85 para a classe 1 (Churn). Nenhuma Inteligência Artificial é 100% assertiva, mas as decisões de negócio devem focar na maximização do lucro e mitigação de danos. 
 
 Neste cenário de e-commerce, avaliamos os impactos dos erros do modelo:
 Falso Positivo: O modelo prevê abandono, a empresa envia um cupom (10% a 15% de desconto), mas o cliente não iria sair. O custo é apenas a margem do desconto.
